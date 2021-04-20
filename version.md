@@ -11,3 +11,4 @@
 | v3.2 | March 2021 | **NJT INTEM P2P** \| UI Improvement - High Contrast mode 🌑 |
 | v3.6 | April 2021 | **NJT INTEM P2P** \| Auth Support Introduction 🔑 |
 | v4.0 | April 2021 | **NJT INTEM P2P AUTH0** \| Auth0 Passwordless Integration 🔒  |
+| v4.4 | April 2021 | **NJT INTEM P2P AUTH0** \| Pug.js template engine integration 🐶 |
